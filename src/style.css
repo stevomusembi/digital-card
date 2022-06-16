@@ -7,24 +7,25 @@
 }
 
 body {
+
     background-color: #000000;
     font-family: Inter, sanserif;
     color: #DCDCDC;
-
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .container {
-    width: 550px;
     background: #23252C;
-    margin-left: 20px;
-    margin-top: 200px;
+    margin: 0;
 }
 
 .card {
     display: flex;
     flex-direction: column;
     width: 360px;
-    margin: 90px;
+    margin: 20px;
     padding: 20px;
 
 }

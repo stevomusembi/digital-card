@@ -12,10 +12,6 @@ export default function Footer() {
                 <FaGithubSquare />
             </div>
 
-            {/* <i class="fa-brands fa-facebook-square"></i>
-            <i class="fa-brands fa-instagram-square"></i>
-            <i class="fa-brands fa-linkedin-square"></i>
-            <i class="fa-brands fa-github-square"></i> */}
         </footer>
     )
 }
