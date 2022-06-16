@@ -137,3 +137,11 @@ p {
     justify-content: space-evenly;
     font-size: 25px;
 }
+
+.icons a {
+    color: rgb(62, 56, 56);
+}
+
+.icons a:hover {
+    color: #DCDCDC;
+}
